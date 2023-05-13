@@ -1,0 +1,11 @@
+{"BTC-USD":
+{
+  "mame": "BTC-USD",
+  "initialize": false
+},
+  "ETH-USD":
+{
+  "mame":"ETH-USD",
+  "initialize": false
+}
+}
