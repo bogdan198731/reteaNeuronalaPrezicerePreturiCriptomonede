@@ -18,6 +18,6 @@ class CryptoMoneda:
 
     def displayTest(self):
         print("crypto " + self.nume+ " are pret " + self.pret + " si istoric ")
-        for pret in self.istoric_preturi:
+
 
 
