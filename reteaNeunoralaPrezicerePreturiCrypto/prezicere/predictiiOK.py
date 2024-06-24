@@ -1,0 +1,2 @@
+class PredictiiOK():
+    listaGreutati = []
